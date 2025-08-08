@@ -1,6 +1,10 @@
 # textile
 
-A new Flutter project.
+A new Kattali Textile text Flutter project.
+
+Screenshort :
+![Image](https://github.com/user-attachments/assets/21ab27fb-3c30-4480-a06c-10c6dd8a3da4)
+![Image](https://github.com/user-attachments/assets/c59c2ea5-48e8-4b38-bf73-242a42cf4064)
 
 ## Getting Started
 
